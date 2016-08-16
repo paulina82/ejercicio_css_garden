@@ -1,0 +1,38 @@
+ body {
+
+  	font-family: Georgia, Times New Roman,Times, serif;
+    color: white;
+    background-image: url(img/html1.jpg);
+  }
+
+  h1 {
+  	color: white;
+    font-size: xx-large;
+    font-style: italic;
+    text-align: center
+  }
+
+  h2 {
+  	font-size: small;
+    font-style: arial;
+
+  }
+   p {
+    color : yellow;
+    border: solid red;
+    font-style: bold; 
+
+     }
+
+   ul {
+    list-style: url("img/css.png") square;
+   	margin:15; 
+    padding:15; 
+
+
+  }
+   li {
+
+   }
+  
+
